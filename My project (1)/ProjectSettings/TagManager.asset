@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Bullet
+  - pad
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: achtergrond
+    uniqueID: 1918729795
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Turrets
+    uniqueID: 26479635
+    locked: 0
+  - name: UI
+    uniqueID: 823926793
+    locked: 0
